@@ -1,7 +1,7 @@
 .container {
     color: var(--color-text);
     padding-top: 61px;
-    text-align: center; /* Center the Certifications title */
+    text-align: center; 
   }
   
   .title {
@@ -28,16 +28,16 @@
     background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
     border-radius: 10px;
     padding: 20px;
-    max-width: 300px;  /* Adjusted max width of the card */
-    min-height: 250px; /* Reduced height to make the cards smaller */
+    max-width: 300px;  
+    min-height: 250px; 
     box-shadow: 0 16px 14px 0 #04152d;
     text-align: center;
   }
   
   .certImage {
-    width: 100%; /* Makes the image responsive */
-    height: 120px; /* Set a smaller height for all images */
-    object-fit: contain; /* Ensures the whole image is visible */
+    width: 100%; 
+    height: 120px; 
+    object-fit: contain; 
     border-radius: 8px;
     margin-bottom: 20px;
   }
