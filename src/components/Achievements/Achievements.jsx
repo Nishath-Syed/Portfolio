@@ -1,8 +1,7 @@
-// components/Achievements/Achievements.jsx
 import React from "react";
 import styles from "./Achievements.module.css";
 
-import achievements from "../../data/achievements.json"; // Import your achievements data
+import achievements from "../../data/achievements.json"; 
 
 export const Achievements = () => {
   return (
