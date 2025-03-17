@@ -1,10 +1,9 @@
-/* components/Resume/Resume.module.css */
 @import "../../vars.css";
 
 .container {
     color: var(--color-text);
     padding-top: 61px;
-    text-align: center; /* Center the Certifications title */
+    text-align: center;
   }
   
   .title {
