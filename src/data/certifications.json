@@ -1,0 +1,33 @@
+
+[
+    {
+      "title": "AWS Certified Cloud Practitioner",
+      "imageSrc": "assets/certifications/aws.png",
+      "issuer": "Amazon Web Services (AWS)",
+      "link": "https://drive.google.com/file/d/13cigaMBwvHVQrTI3YfE953V2hIQugGMG/view?usp=sharing"
+    },
+    {
+      "title": "Introduction to Internet of things",
+      "imageSrc": "assets/certifications/nptel.png",
+      "issuer": "NPTEL",
+      "link": "https://drive.google.com/file/d/1S3BpB3JzfNdx-kQohm070NfXzdaVN-3e/view?usp=sharing"
+    },
+    {
+        "title": "Programming Essentials in Python",
+        "imageSrc": "assets/certifications/cisco.png",
+        "issuer": "Cisco Networking Academy",
+        "link": "https://drive.google.com/file/d/1oTnznRtuvaEKng7y3RxA5WueBaJ0M4st/view?usp=sharing"
+    },
+    {
+        "title": "TechA MERN Stack Developer Certification",
+        "imageSrc": "assets/certifications/infosys.png",
+        "issuer": "Infosys Springboard",
+        "link": "https://drive.google.com/file/d/1Lu6sRy3-8wfm78wducSfrd6cn6HjnHx-/view?usp=sharing"
+    },
+    {
+        "title": "Cyber Security Certificate",
+        "imageSrc": "assets/certifications/Capgemini.webp",
+        "issuer": "Capgemini",
+        "link": "https://drive.google.com/file/d/1cRnpBH_OyoIFZaTtdMyfufZpi1Gy5GcV/view?usp=sharing"
+    }
+  ]

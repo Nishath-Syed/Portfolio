@@ -1,0 +1,35 @@
+@import "../../vars.css";
+
+.container {
+  margin-top: 76px;
+  color: var(--color-text);
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.projects {
+  margin-top: 50px;
+  display: grid; /* Use grid layout for multiple columns */
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Automatically fill the row with a minimum card width of 300px */
+  gap: 40px; /* Gap between cards */
+  width: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+  .projects {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Adjusted for smaller screens */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .projects {
+    grid-template-columns: 1fr; /* Stack cards vertically for very small screens */
+  }
+}

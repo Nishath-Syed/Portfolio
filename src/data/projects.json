@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Student Grade Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a web application allowing students to view their profiles, grades, and a list of teachers.Implemented teacher login features where teachers can assign marks to students and view a comprehensive list of students.",
+    "skills": ["HTML", "CSS", "JavaScript", "JSP", "JDBC", "Oracle"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Nishath-Syed/Student-Grade-Management.git"
+  },
+  {
+    "title": "Student Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a web application enabling students to view their personal data and admin to manage student records with CRUD functionality.Implemented secure user authentication using JWT, with role-based access control for students and admin. (Admin's credentials- Username:Shuichi Password:Akai1995)",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://67d6aa08d38ae1acf8d70fe3--remarkable-bunny-673cb8.netlify.app/",
+    "source": "https://github.com/Nishath-Syed/Student-Management-System-MERN.git"
+  },
+  {
+    "title": "Social Media Web Application (X Clone)",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a X-like Social Media Application using the MERN stack with user authentication, followers, and notifications.Developed the frontend to enable user interactions, posts, and notifications.Built the backend with secure user authentication, post creation, likes, comments, and follow relationships.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Nishath-Syed/X-Clone.git"
+  }
+]

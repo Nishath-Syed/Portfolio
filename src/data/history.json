@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Biztron Softech",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Designed and implemented a Social Media Web Application","Leveraged React.js, Node.js, MongoDB, and Express for seamless user experience."],
+    "imageSrc": "history/biztronsoft_logo.jpeg"
+  },
+  {
+    "role": "AI and ML Intern",
+    "organisation": "Edunet Foundation (in collaboration with APSSDC)",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Worked on the Employee Burnout Prediction project, applying machine learning techniques to identify and mitigate burnout risks.","Conducted data analysis and developed a predictive model for employee burnout, using machine learning techniques."],
+    "imageSrc": "history/edunetfoundation_logo.jpeg"
+  }
+]
