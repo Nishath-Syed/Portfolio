@@ -28,5 +28,11 @@
     "imageSrc": "certifications/Capgemini.webp",
     "issuer": "Capgemini",
     "link": "https://drive.google.com/file/d/1cRnpBH_OyoIFZaTtdMyfufZpi1Gy5GcV/view?usp=sharing"
+  },
+  {
+    "title": "DSA Certificate",
+    "imageSrc": "certifications/smart.jpeg",
+    "issuer": "Smart Interviews",
+    "link": "https://smartinterviews.in/certificate/ad556cc3"
   }
 ]
