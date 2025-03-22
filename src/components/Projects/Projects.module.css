@@ -16,20 +16,20 @@
 
 .projects {
   margin-top: 50px;
-  display: grid; /* Use grid layout for multiple columns */
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Automatically fill the row with a minimum card width of 300px */
-  gap: 40px; /* Gap between cards */
+  display: grid; 
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
+  gap: 40px; 
   width: 100%;
 }
 
 @media screen and (max-width: 1024px) {
   .projects {
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Adjusted for smaller screens */
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); 
   }
 }
 
 @media screen and (max-width: 768px) {
   .projects {
-    grid-template-columns: 1fr; /* Stack cards vertically for very small screens */
+    grid-template-columns: 1fr; 
   }
 }

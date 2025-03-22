@@ -1,4 +1,3 @@
-// components/Resume/Resume.jsx
 import React from "react";
 import styles from "./Resume.module.css";
 
