@@ -1,8 +1,8 @@
 // components/Certifications/Certifications.jsx
 import React from "react";
 import styles from "./Certifications.module.css";
-
 import certifications from "../../data/certifications.json"; // Import your certifications data
+import { getImageUrl } from "../../utils";
 
 export const Certifications = () => {
   return (
@@ -11,7 +11,11 @@ export const Certifications = () => {
       <div className={styles.certificates}>
         {certifications.map((cert, index) => (
           <div className={styles.certCard} key={index}>
-            <img src={cert.imageSrc} alt={cert.title} className={styles.certImage} />
+            <img
+              src={getImageUrl(cert.imageSrc)}
+              alt={cert.title}
+              className={styles.certImage}
+            />
             <h3 className={styles.certTitle}>{cert.title}</h3>
             <p className={styles.certIssuer}>{cert.issuer}</p>
             <a href={cert.link} className={styles.certLink}>
