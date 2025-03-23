@@ -1,10 +1,8 @@
 import React from "react";
 import styles from "./Certifications.module.css";
-<<<<<<< HEAD
-import certifications from "../../data/certifications.json"; // Import your certifications data
-=======
+
 import certifications from "../../data/certifications.json"; 
->>>>>>> d1bae11f234eeff05846cc491f8f2c5923447b72
+
 import { getImageUrl } from "../../utils";
 
 export const Certifications = () => {

@@ -113,29 +113,7 @@
   .content {
     align-items: center;
     text-align: center;
-<<<<<<< HEAD
-=======
-  }
 
-  .title {
-    font-size: 36px;
-    margin-bottom: 20px;
-  }
-
-  .description {
-    font-size: 18px;
-    margin-bottom: 30px;
-  }
-
-  .contactBtn {
-    font-size: 18px;
-    padding: 12px 20px;
-  }
-
-  .heroImg {
-    width: 80%;
-    margin-bottom: 20px;
->>>>>>> d1bae11f234eeff05846cc491f8f2c5923447b72
   }
 
   .title {
