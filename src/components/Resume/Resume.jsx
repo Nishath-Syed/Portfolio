@@ -10,7 +10,7 @@ export const Resume = () => {
         experience.
       </p>
       <a
-        href="https://drive.google.com/file/d/1oy6C5hrcuYHcQxAjq3Slc-OVaLj306Jb/view?usp=sharing" 
+        href="https://drive.google.com/file/d/1RX50S_Ug_RTw6tgJo5vMhD7-8raVkzaR/view?usp=sharing" 
         download
         className={styles.downloadBtn}
       >
